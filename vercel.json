@@ -14,7 +14,7 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://skill-exchange-vru5-87ad90h5j-mnovalas-projects.vercel.app",
+        "APP_URL": "https://skill-exchange-vru5.vercel.app",
         "APP_KEY": "base64:tvy0Li+nLXFAIFiDHFGr0mLYw8uL7yS+mRvBfTY8vzM=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
